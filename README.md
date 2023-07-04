@@ -2,12 +2,12 @@
 - Frequently Used Components and Layout Patterns of HTML/CSS.
 #
 
-# Components
+Components
 - Accordion Component
 - Carousel Component
 - Table Component
 - Pagination Component
 _
-# Layout Patterns
+Layout Patterns
 - Hero Section
 - Web Application Layout (E-mail)
