@@ -11,3 +11,8 @@
 ### Layout Patterns
 - Hero Section
 - Web Application Layout (E-mail)
+#
+<br/>
+
+- You could preview screenshots in the 'preview' folder.
+- The code was written by BM, during the HTML & CSS course of Jonas.
